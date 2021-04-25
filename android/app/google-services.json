@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632904201203",
+    "project_id": "kadai-app-cf56d",
+    "storage_bucket": "kadai-app-cf56d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632904201203:android:5e7949163a85afdf2ad886",
+        "android_client_info": {
+          "package_name": "com.kadaiprr.kadai_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632904201203-f1rle1j48gk3rkeb78qks2lhq03tk5v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3iIofx-UZX-7KicuiIrLcWHW1q162PG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632904201203-f1rle1j48gk3rkeb78qks2lhq03tk5v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
